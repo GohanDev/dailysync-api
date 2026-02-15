@@ -1,3 +1,2 @@
 # dailysync-api
-API atualizada DailySync
-Utilização do render em vez do ngrok
+API atualizada DailySync para utilização do Render em vez do ngrok
